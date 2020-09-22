@@ -26,6 +26,42 @@
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42439%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 42 Contributions in the Year 2020
+ > 
+> 📦 24.1 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 5 Public Repositories
+ > 
+> 🔑 3 Private Repositories 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     3 repos             ███████████████░░░░░░░░░░   60.0% 
+PHP                      1 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+ASP                      1 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 <br />
