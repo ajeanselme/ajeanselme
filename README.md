@@ -26,13 +26,13 @@
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56140%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55589%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 18 Contributions in the Year 2020
  > 
-> 📦 228.5 kB Used in Github's Storage 
+> 📦 228.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
