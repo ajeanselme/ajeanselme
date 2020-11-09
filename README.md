@@ -26,17 +26,17 @@
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 100 Contributions in the Year 2020
+> 🏆 90 Contributions in the Year 2020
  > 
-> 📦 334.5 kB Used in Github's Storage 
+> 📦 297.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories
+> 📜 9 Public Repositories
  > 
 > 🔑 3 Private Repositories 
 
@@ -58,11 +58,11 @@ IntelliJ                 3 hrs 23 mins       ████░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-C#                       2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-ASP.NET                  2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-ASP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+C#                       2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+ASP.NET                  2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+ASP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
