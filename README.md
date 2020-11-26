@@ -30,7 +30,9 @@
 
 **🐱 My Github Data** 
 
-> 📦 320.3 kB Used in Github's Storage 
+> 🏆 146 Contributions in the Year 2020
+ > 
+> 📦 321.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
