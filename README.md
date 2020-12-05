@@ -36,9 +36,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories
+> 📜 9 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 6 Private Repositories  
 
 📊 **This Week I Spent My Time On** 
 
