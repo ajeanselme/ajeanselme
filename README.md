@@ -12,6 +12,7 @@
 
 - 👯 I’m looking to collaborate with other game makers
 
+Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 <br />
 
