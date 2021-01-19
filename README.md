@@ -30,11 +30,13 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 **🐱 My Github Data** 
 
+> 🏆 8 Contributions in the Year 2021
+ > 
 > 📦 326.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
