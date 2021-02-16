@@ -6,7 +6,7 @@
  
 - 🎮 I’m currently working on developing my game coding skills !
 
-- 🥅 2020 Goals: Develop more games and business opportunities
+- 🥅 2021 Goals: Develop more games and business opportunities
 
 - 🎨 I’m also trying stuff like web development and marketing
 
