@@ -32,7 +32,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 > 🏆 16 Contributions in the Year 2021
  > 
-> 📦 519.2 kB Used in Github's Storage 
+> 📦 582.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -44,12 +44,10 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 ```text
 💬 Programming Languages: 
-C#                       4 hrs 58 mins       █████████████████████████   99.99% 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+C#                       5 hrs 38 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Visual Studio            4 hrs 58 mins       █████████████████████████   99.99% 
-IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+Visual Studio            5 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
