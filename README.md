@@ -26,13 +26,13 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 55 Contributions in the Year 2021
+> 🏆 56 Contributions in the Year 2021
  > 
-> 📦 582.5 kB Used in Github's Storage 
+> 📦 605.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -57,14 +57,14 @@ Sublime Text             1 hr 5 mins         █░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in C#** 
 
 ```text
-Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-C#                       3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-ASP.NET                  2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-ASP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+C#                       4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+ASP.NET                  2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+ASP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
