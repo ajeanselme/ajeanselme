@@ -32,7 +32,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 > 🏆 153 Contributions in the Year 2021
  > 
-> 📦 615.3 kB Used in Github's Storage 
+> 📦 615.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
