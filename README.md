@@ -30,7 +30,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 **🐱 My Github Data** 
 
-> 🏆 155 Contributions in the Year 2021
+> 🏆 156 Contributions in the Year 2021
  > 
 > 📦 615.5 kB Used in Github's Storage 
  > 
@@ -70,7 +70,7 @@ ASP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2021
+ Last Updated on 22/08/2021
 <!--END_SECTION:waka-->
 
 <br />
