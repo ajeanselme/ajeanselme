@@ -36,7 +36,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
  > 
 > 💼 Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
  > 
