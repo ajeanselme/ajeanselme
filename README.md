@@ -30,7 +30,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 **🐱 My GitHub Data** 
 
-> 🏆 234 Contributions in the Year 2021
+> 🏆 235 Contributions in the Year 2021
  > 
 > 📦 781.8 kB Used in GitHub's Storage 
  > 
