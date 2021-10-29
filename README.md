@@ -32,7 +32,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 > 🏆 270 Contributions in the Year 2021
  > 
-> 📦 843.7 kB Used in GitHub's Storage 
+> 📦 844.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -71,7 +71,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2021
+ Last Updated on 29/10/2021
 <!--END_SECTION:waka-->
 
 <br />
