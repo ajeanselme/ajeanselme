@@ -26,6 +26,8 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-959%20hrs%2026%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -44,12 +46,12 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 ```text
 💬 Programming Languages: 
-C#                       6 hrs 8 mins        ████████████████████████░   98.13% 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
+C#                       5 hrs 48 mins       ████████████████████████░   98.02% 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97% 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Rider                    6 hrs 15 mins       █████████████████████████   100.0%
+Rider                    5 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
