@@ -26,6 +26,8 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-962%20hrs%2024%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -44,10 +46,10 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 ```text
 💬 Programming Languages: 
-C#                       7 mins              █████████████████████████   100.0%
+C#                       16 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Rider                    7 mins              █████████████████████████   100.0%
+Rider                    16 mins             █████████████████████████   100.0%
 
 ```
 
@@ -64,7 +66,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2022
+ Last Updated on 06/01/2022
 <!--END_SECTION:waka-->
 
 <br />
