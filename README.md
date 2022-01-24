@@ -26,7 +26,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
 
@@ -55,7 +55,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2022 17:09:55 UTC
+ Last Updated on 24/01/2022 00:13:44 UTC
 <!--END_SECTION:waka-->
 
 <br />
