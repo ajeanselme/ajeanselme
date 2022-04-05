@@ -26,13 +26,13 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C124%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 8 Contributions in the Year 2022
+> 🏆 10 Contributions in the Year 2022
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
@@ -55,7 +55,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2022 16:09:13 UTC
+ Last Updated on 05/04/2022 19:07:54 UTC
 <!--END_SECTION:waka-->
 
 <br />
