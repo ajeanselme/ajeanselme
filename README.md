@@ -32,6 +32,8 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 **🐱 My GitHub Data** 
 
+> 🏆 28 Contributions in the Year 2022
+ > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -53,7 +55,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2022 04:17:08 UTC
+ Last Updated on 27/05/2022 05:10:52 UTC
 <!--END_SECTION:waka-->
 
 <br />
