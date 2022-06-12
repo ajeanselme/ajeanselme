@@ -30,18 +30,19 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 28 contributions in 2022
-
-📦 1.2 MB used in GitHub's storage 
-
-📜 12 Public Repositories 
-
-🔑 13 Private Repositories  
+> 🏆 28 Contributions in the Year 2022
  > 
-**💻 I mostly code in C#** 
+> 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 13 Private Repositories  
+ > 
+**I Mostly Code in C#** 
 
 ```text
 C#                       7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
@@ -54,7 +55,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 08:07:44 UTC
+ Last Updated on 12/06/2022 09:08:55 UTC
 <!--END_SECTION:waka-->
 
 <br />
