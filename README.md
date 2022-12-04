@@ -6,11 +6,9 @@
  
 - 🎮 I’m currently working on developing my game coding skills !
 
-- 🥅 2021 Goals: Develop more games and business opportunities
+- 🥅 2023 Goals: Develop more games and business opportunities
 
 - 🎨 I’m also trying stuff like web development and marketing
-
-- 👯 I’m looking to collaborate with other game makers
 
 Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
