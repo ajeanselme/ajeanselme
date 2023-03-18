@@ -4,11 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ajeanselme&show_icons=true" alt="ajeanselme" />
 
  
-- 🎮 I’m currently working on developing my game coding skills !
-
-- 🥅 2023 Goals: Develop more games and business opportunities
-
-- 🎨 I’m also trying stuff like web development and marketing
+- 🎮 I'm currently working as a Tool Developer at Parallel Studio !
 
 Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
@@ -69,5 +65,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 [Website]: https://jeanselme.fr
 [Linkedin]: https://linkedin.com/in/ajeanselme
-[Instagram]: https://instagram.com/ajse91
-[Facebook]: https://www.facebook.com/antoine.jse/
+[Instagram]: https://instagram.com/antoinejse
+[Facebook]: https://www.facebook.com/antoinejse/
