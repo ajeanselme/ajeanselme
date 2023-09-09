@@ -20,36 +20,36 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C251%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C786%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-368.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 28 Contributions in the Year 2022
+> 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 📦 1.2 MB Used in GitHub's Storage 
+> 🏆 239 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 13 Private Repositories  
+> 🔑 13 Private Repositories 
  > 
 **I Mostly Code in C#** 
 
 ```text
-C#                       7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
-Java                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-ASP.NET                  2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-ShaderLab                2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
+C#                       17 repos            ███████████░░░░░░░░░░░░░░   45.95 % 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+ShaderLab                4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 
 
 
- Last Updated on 19/06/2022 21:09:07 UTC
+
+ Last Updated on 09/09/2023 17:04:11 UTC
 <!--END_SECTION:waka-->
 
 <br />
