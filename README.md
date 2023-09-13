@@ -22,13 +22,15 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C795%20hrs%2018%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-368.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 239 Contributions in the Year 2023
+> 🏆 240 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -36,6 +38,16 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2619 commits        ██████████░░░░░░░░░░░░░░░   41.41 % 
+🌆 Daytime                2690 commits        ███████████░░░░░░░░░░░░░░   42.53 % 
+🌃 Evening                915 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+🌙 Night                  101 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+```
+
+
 **I Mostly Code in C#** 
 
 ```text
@@ -49,7 +61,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2023 19:04:32 UTC
+ Last Updated on 13/09/2023 19:35:29 UTC
 <!--END_SECTION:waka-->
 
 <br />
