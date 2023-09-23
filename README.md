@@ -22,7 +22,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C817%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-368.7%20million%20lines%20of%20code-blue)
 
@@ -61,7 +61,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2023 15:04:03 UTC
+ Last Updated on 23/09/2023 16:04:17 UTC
 <!--END_SECTION:waka-->
 
 <br />
