@@ -20,7 +20,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C858%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C859%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,7 +30,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 255 Contributions in the Year 2023
+> 🏆 256 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -41,8 +41,8 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2623 commits        ██████████░░░░░░░░░░░░░░░   41.37 % 
-🌆 Daytime                2698 commits        ███████████░░░░░░░░░░░░░░   42.55 % 
+🌞 Morning                2623 commits        ██████████░░░░░░░░░░░░░░░   41.36 % 
+🌆 Daytime                2699 commits        ███████████░░░░░░░░░░░░░░   42.56 % 
 🌃 Evening                920 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 🌙 Night                  100 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
@@ -52,16 +52,16 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 ```text
 C#                       17 repos            ███████████░░░░░░░░░░░░░░   44.74 % 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 ShaderLab                4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 07/10/2023 14:04:12 UTC
+ Last Updated on 07/10/2023 15:04:12 UTC
 <!--END_SECTION:waka-->
 
 <br />
