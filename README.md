@@ -20,7 +20,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C071%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C071%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -61,7 +61,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2024 11:04:23 UTC
+ Last Updated on 02/01/2024 12:05:29 UTC
 <!--END_SECTION:waka-->
 
 <br />
