@@ -20,7 +20,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C099%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C099%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -51,17 +51,17 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 **I Mostly Code in C#** 
 
 ```text
-C#                       17 repos            ███████████░░░░░░░░░░░░░░   42.50 % 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-ShaderLab                4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+C#                       18 repos            ███████████░░░░░░░░░░░░░░   43.90 % 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+ShaderLab                4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 
 
 
 
- Last Updated on 10/01/2024 09:04:46 UTC
+ Last Updated on 10/01/2024 10:05:18 UTC
 <!--END_SECTION:waka-->
 
 <br />
