@@ -20,8 +20,6 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C298%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-381.9%20million%20lines%20of%20code-blue)
@@ -59,7 +57,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 21:13:59 UTC
+ Last Updated on 14/04/2024 23:07:02 UTC
 <!--END_SECTION:waka-->
 
 <br />
