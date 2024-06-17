@@ -20,7 +20,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C387%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C387%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,7 +30,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2024
+> 🏆 86 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -42,7 +42,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 ```text
 🌞 Morning                4756 commits        █████████████░░░░░░░░░░░░   51.92 % 
-🌆 Daytime                3189 commits        █████████░░░░░░░░░░░░░░░░   34.81 % 
+🌆 Daytime                3190 commits        █████████░░░░░░░░░░░░░░░░   34.82 % 
 🌃 Evening                1076 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 🌙 Night                  139 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
@@ -51,17 +51,17 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 **I Mostly Code in C#** 
 
 ```text
-C#                       18 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-ShaderLab                4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C#                       18 repos            ██████████░░░░░░░░░░░░░░░   41.86 % 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+ShaderLab                4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 ```
 
 
 
 
- Last Updated on 17/06/2024 12:05:47 UTC
+ Last Updated on 17/06/2024 13:06:46 UTC
 <!--END_SECTION:waka-->
 
 <br />
