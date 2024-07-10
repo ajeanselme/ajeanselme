@@ -20,7 +20,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C428%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C428%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -30,7 +30,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 144 Contributions in the Year 2024
+> 🏆 151 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -41,9 +41,9 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4759 commits        █████████████░░░░░░░░░░░░   51.63 % 
-🌆 Daytime                3214 commits        █████████░░░░░░░░░░░░░░░░   34.87 % 
-🌃 Evening                1101 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+🌞 Morning                4759 commits        █████████████░░░░░░░░░░░░   51.55 % 
+🌆 Daytime                3220 commits        █████████░░░░░░░░░░░░░░░░   34.88 % 
+🌃 Evening                1110 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 🌙 Night                  143 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 
@@ -52,16 +52,16 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 ```text
 C#                       18 repos            ██████████░░░░░░░░░░░░░░░   40.91 % 
+Kotlin                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ShaderLab                4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 ```
 
 
 
 
- Last Updated on 10/07/2024 19:05:23 UTC
+ Last Updated on 10/07/2024 20:05:11 UTC
 <!--END_SECTION:waka-->
 
 <br />
