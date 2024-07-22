@@ -20,7 +20,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C469%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C469%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,10 +41,10 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4803 commits        ████████████░░░░░░░░░░░░░   47.01 % 
-🌆 Daytime                3552 commits        █████████░░░░░░░░░░░░░░░░   34.77 % 
-🌃 Evening                1650 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-🌙 Night                  211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+🌞 Morning                4803 commits        ████████████░░░░░░░░░░░░░   47.00 % 
+🌆 Daytime                3552 commits        █████████░░░░░░░░░░░░░░░░   34.76 % 
+🌃 Evening                1653 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+🌙 Night                  211 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 
 
@@ -61,7 +61,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2024 17:05:12 UTC
+ Last Updated on 22/07/2024 18:06:03 UTC
 <!--END_SECTION:waka-->
 
 <br />
