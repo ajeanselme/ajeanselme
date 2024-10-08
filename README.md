@@ -30,8 +30,6 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -61,7 +59,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2024 06:18:46 UTC
+ Last Updated on 08/10/2024 07:14:06 UTC
 <!--END_SECTION:waka-->
 
 <br />
