@@ -20,7 +20,7 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C694%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C694%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,16 +38,6 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1190 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-🌆 Daytime                2872 commits        ████████████░░░░░░░░░░░░░   49.77 % 
-🌃 Evening                1481 commits        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-🌙 Night                  228 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-```
-
-
 **I Mostly Code in C#** 
 
 ```text
@@ -61,7 +51,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2024 23:04:24 UTC
+ Last Updated on 10/11/2024 00:09:18 UTC
 <!--END_SECTION:waka-->
 
 <br />
