@@ -51,17 +51,17 @@ Checkout my [itch.io](https://ajeanselme.itch.io/) to test my games
 **I Mostly Code in C#** 
 
 ```text
-C#                       17 repos            ██████████░░░░░░░░░░░░░░░   41.46 % 
-Kotlin                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-ShaderLab                4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+C#                       17 repos            ███████████░░░░░░░░░░░░░░   42.50 % 
+Kotlin                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+ShaderLab                4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 ```
 
 
 
 
- Last Updated on 17/11/2024 22:04:42 UTC
+ Last Updated on 17/11/2024 23:04:26 UTC
 <!--END_SECTION:waka-->
 
 <br />
