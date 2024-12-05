@@ -7,6 +7,8 @@
 
 ## I love stats
 
+<img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C749%20hrs%2050%20mins-blue)
 
