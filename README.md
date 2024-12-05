@@ -1,7 +1,6 @@
 # Hi 👋, I'm Antoine [![Website](https://img.shields.io/website?label=jeanselme.fr&style=for-the-badge&url=https%3A%2F%2Fjeanselme.fr)](https://jeanselme.fr)
 
-### I'm a Game Dev, Tool Dev, Web Dev, Fullstack DevOps... I basically do a lot of things! 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ajeanselme&show_icons=true" alt="ajeanselme" />
+### I'm a Game Dev, Tool Dev, Web Dev, Fullstack DevOps... I basically do a lot of things!
 
 <br />
 
