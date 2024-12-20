@@ -9,15 +9,13 @@
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C794%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C792%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-360.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 610 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -48,7 +46,7 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2024 22:04:53 UTC
+ Last Updated on 20/12/2024 23:05:33 UTC
 <!--END_SECTION:waka-->
 
 <br />
