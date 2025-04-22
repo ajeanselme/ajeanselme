@@ -9,15 +9,13 @@
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C014%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C014%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-361.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 201 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -48,7 +46,7 @@ ShaderLab                4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2025 16:04:48 UTC
+ Last Updated on 22/04/2025 17:05:05 UTC
 <!--END_SECTION:waka-->
 
 <br />
