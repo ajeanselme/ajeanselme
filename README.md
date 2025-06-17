@@ -9,13 +9,15 @@
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C069%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C070%20hrs%2016%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-361.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-361.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 204 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -26,10 +28,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1351 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-🌆 Daytime                4990 commits        ████████████░░░░░░░░░░░░░   48.49 % 
-🌃 Evening                3445 commits        ████████░░░░░░░░░░░░░░░░░   33.48 % 
-🌙 Night                  504 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+🌞 Morning                1354 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+🌆 Daytime                5043 commits        ████████████░░░░░░░░░░░░░   48.50 % 
+🌃 Evening                3490 commits        ████████░░░░░░░░░░░░░░░░░   33.56 % 
+🌙 Night                  511 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
 
 
@@ -46,7 +48,7 @@ ShaderLab                4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2025 20:05:21 UTC
+ Last Updated on 17/06/2025 21:06:10 UTC
 <!--END_SECTION:waka-->
 
 <br />
