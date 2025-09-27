@@ -9,8 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C196%20hrs%2026%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-362.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -25,16 +23,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1496 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-🌆 Daytime                6634 commits        ████████████░░░░░░░░░░░░░   48.69 % 
-🌃 Evening                4800 commits        █████████░░░░░░░░░░░░░░░░   35.23 % 
-🌙 Night                  694 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-```
-
-
 **I Mostly Code in C#** 
 
 ```text
@@ -48,7 +36,7 @@ ShaderLab                4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 21:05:42 UTC
+ Last Updated on 27/09/2025 22:05:05 UTC
 <!--END_SECTION:waka-->
 
 <br />
