@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=ajeanselme" alt="ajeanselme" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C403%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C404%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-363.8%20million%20lines%20of%20code-blue)
 
@@ -25,16 +25,6 @@
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1870 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-🌆 Daytime                9869 commits        ████████████░░░░░░░░░░░░░   48.37 % 
-🌃 Evening                7583 commits        █████████░░░░░░░░░░░░░░░░   37.16 % 
-🌙 Night                  1082 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-```
-
-
 **I Mostly Code in C#** 
 
 ```text
@@ -48,7 +38,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2025 00:13:27 UTC
+ Last Updated on 19/12/2025 01:34:36 UTC
 <!--END_SECTION:waka-->
 
 <br />
