@@ -1,6 +1,6 @@
-# Hi 👋, I'm Antoine [![Website](https://img.shields.io/website?label=jeanselme.fr&style=for-the-badge&url=https%3A%2F%2Fjeanselme.fr)](https://jeanselme.fr)
+# Hi 👋, I'm Antoine [![Website](https://img.shields.io/website?label=antoine.sh&style=for-the-badge&url=https%3A%2F%antoine.sh)](https://antoine.sh)
 
-### I'm a Game Dev, Tool Dev, Web Dev, Fullstack DevOps... I basically do a lot of things!
+### I'm a Software Engineer, Backend Engineer, Fullstack Dev, Game Dev... I basically do a lot of things!
 
 <br />
 
@@ -60,5 +60,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 ---
 
-[Website]: https://jeanselme.fr
+[Website]: https://antoine.sh
 [Linkedin]: https://linkedin.com/in/ajeanselme
