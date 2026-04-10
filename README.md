@@ -1,4 +1,4 @@
-# Hi 👋, I'm Antoine [![Website](https://img.shields.io/website?label=antoine.sh&style=for-the-badge&url=https%3A%2F%antoine.sh)](https://antoine.sh)
+# Hi 👋, I'm Antoine [![Website](https://img.shields.io/website?label=antoine.sh&style=for-the-badge&url=https://antoine.sh)](https://antoine.sh)
 
 ### Builder by day, boss-fighter by night: I craft **full-stack products**, engineer **reliable backends**, and **develop games** for fun!
 
