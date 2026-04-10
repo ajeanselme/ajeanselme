@@ -1,6 +1,6 @@
 # Hi 👋, I'm Antoine [![Website](https://img.shields.io/website?label=antoine.sh&style=for-the-badge&url=https%3A%2F%antoine.sh)](https://antoine.sh)
 
-### I'm a Software Engineer, Backend Engineer, Fullstack Dev, Game Dev... I basically do a lot of things!
+### Builder by day, boss-fighter by night: I craft **full-stack products**, engineer **reliable backends**, and **develop games** for fun!
 
 <br />
 
