@@ -55,10 +55,10 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 ## Connect with me!
 
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="ajeanselme" height="30" width="30" />][Website]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajeanselme" height="30" width="30" />][Linkedin]
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="antoine.sh" height="30" width="30"/>][Website]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="antoine.sh" height="30" width="30" />][Linkedin]
 
 ---
 
 [Website]: https://antoine.sh
-[Linkedin]: https://linkedin.com/in/ajeanselme
+[Linkedin]: https://linkedin.com/in/antoine-sh
